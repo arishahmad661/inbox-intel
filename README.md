@@ -1,6 +1,6 @@
-# phishnet
+# inbox-intel
 
-A new Flutter project.
+Email Threat Detection via ClamAV.
 
 ## Getting Started
 
